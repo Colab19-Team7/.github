@@ -60,7 +60,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Re-Me website](https://re-me.onrender.com)
-- Chrome extension coming soon
+- [Chrome extension](https://chrome.google.com/webstore/detail/re-me/aneophmeaepdcjleicjgehfogheojdge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
